@@ -16,5 +16,4 @@ HTML5 / CSS3 – Marcação e estilo
 Bootstrap 5 – Layout moderno e responsivo
 PDO (PHP Data Objects) – Conexão segura com o banco
 
-<h2>🖼️ Imagem do Projeto</h2>
-<img src="img/tela-crud.png" width="700"/>
+![Tela projeto Crud](img/tela-crud.png)
