@@ -16,5 +16,5 @@ HTML5 / CSS3 – Marcação e estilo
 Bootstrap 5 – Layout moderno e responsivo
 PDO (PHP Data Objects) – Conexão segura com o banco
 
-![Print do projeto](https://github.com/SYONARYAMELO/Projeto--Crud--PHP/blob/master/img/tela-crud.png?raw=true)
+![Print do projeto]([https://github.com/SYONARYAMELO/Projeto--Crud--PHP/blob/master/img/tela-crud.png?raw=true](https://github.com/SYONARYAMELO/Projeto--Crud--PHP/blob/master/img/tela-crud.png).
 
