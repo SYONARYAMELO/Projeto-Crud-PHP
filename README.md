@@ -1,4 +1,5 @@
 Projeto CRUD em PHP
+
 Este é um projeto completo de CRUD (Criar, Ler, Atualizar e Deletar) desenvolvido por mim com PHP e MySQL, utilizando HTML/CSS e Bootstrap 5 para o front-end. O objetivo do projeto é praticar e demonstrar o funcionamento básico de um sistema de cadastro de usuários com interface simples, responsiva e funcional.
 
 ✅ Funcionalidades
